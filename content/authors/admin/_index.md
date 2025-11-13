@@ -3,14 +3,14 @@
 title: 吳健雄
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Ricardo Daniel González
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Ricardo Daniel
+last_name: González
 
 # Pronouns (optional)
-pronouns: she/her
+# pronouns: she/her
 
 # Status emoji
 status:
@@ -20,15 +20,15 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Periodista.
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Notaspampeanas
+    url: https://www.notaspampeanas.com
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Periodista. Divulgador científico. Fotógrafo aficionado. Horticultor hogareño.
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
