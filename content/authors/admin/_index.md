@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 吳健雄
+title: Ricardo
 
 # Name pronunciation (optional)
 name_pronunciation: Ricardo Daniel González
@@ -34,10 +34,10 @@ bio: Periodista. Divulgador científico. Fotógrafo aficionado. Horticultor hoga
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:rijcardgonzalez@gmail.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://x.com/BuildLore
+    url: https://x.com/notaspampeanas
   - icon: brands/instagram
     url: https://www.instagram.com/
   - icon: brands/linkedin
@@ -48,15 +48,13 @@ profiles:
     label: Download my resume
   - icon: rss
     url: ./post/index.xml
-    label: Subscribe to my blog via RSS feed
+    label: Suscríbase a mi blog via rss
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 
 # Author's website URL
-website: ""
+website: "https://www.notaspampeanas.com"
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include
-distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops
-self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Ricardo Daniel González: periodista, divulgador científico, fotógrafo aficionado, hortelano de traspatio. Vive en Santa Rosa, La Pampa, República Argentina.
